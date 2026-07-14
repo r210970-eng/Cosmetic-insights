@@ -187,3 +187,8 @@ This project is developed for educational purposes as part of the Skill Wallet p
 
 ## Author
 Josh
+## 📄 License
+
+This project was developed for educational purposes as part of the **Skill Wallet Cosmetic Insights Project**.
+
+It is intended only for academic learning and demonstration.
